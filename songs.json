@@ -13022,5 +13022,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/9422620459f3738256389a86-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "31006e3b3c075587b5f7014c485d65b7",
+    "text": "floridomi - Lakeside",
+    "artist": "floridomi",
+    "title": "Lakeside",
+    "album": "Chillhop Essentials - Summer 2018",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/05f1e205758acb3c0cbc0ddd-1586028052.jpg",
+    "custom_fields": []
   }
 ]
