@@ -12890,5 +12890,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "e482d2d70b0fbaa2f08577e955591d98",
+    "text": "Various Artists - Wise One - Aye",
+    "artist": "Various Artists",
+    "title": "Wise One - Aye",
+    "album": "BLESS Vol. 2",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/4af4a394434adffe25d96ac2-1586028052.jpg",
+    "custom_fields": []
   }
 ]
