@@ -14144,5 +14144,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "665899cef8ca483eafb36ea9aa1f2ec6",
+    "text": "jinsang - aurora.",
+    "artist": "jinsang",
+    "title": "aurora.",
+    "album": "solitude.",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/3d7f2489f60eca175ad5aede-1586028052.jpg",
+    "custom_fields": []
   }
 ]
