@@ -13506,5 +13506,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/75b8a18ffec38995a9ede92f-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "7f534605311371d42b558cf25d9bf6db",
+    "text": "FloFilz - Lucie",
+    "artist": "FloFilz",
+    "title": "Lucie",
+    "album": "Chillhop Essentials - Fall 2017",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/6ccd8e2259e85457d10507a5-1586028052.jpg",
+    "custom_fields": []
   }
 ]
