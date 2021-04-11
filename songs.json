@@ -12725,5 +12725,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/1ed782918bc59afeb4a076ba-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "9286cde3bd9486e22a79308bba0eb223",
+    "text": "HM Surf - Swix",
+    "artist": "HM Surf",
+    "title": "Swix",
+    "album": "Chillhop Essentials - Spring 2018",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/de46264e48e73d019ca572a9-1586028052.jpg",
+    "custom_fields": []
   }
 ]
