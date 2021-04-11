@@ -12648,5 +12648,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "07f77205e8432c54851fe543e81eda2d",
+    "text": "Bop Alloy - In Memoriam... (Instrumental)",
+    "artist": "Bop Alloy",
+    "title": "In Memoriam... (Instrumental)",
+    "album": "Substantial \u0026 Marcus D are Bop Alloy (Deluxe Edition)",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/74bff51c491f3f4ee99fa5ef-1586028052.jpg",
+    "custom_fields": []
   }
 ]
