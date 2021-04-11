@@ -12813,5 +12813,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "bbadac63719ee98c4a9340155bdf845f",
+    "text": "chromonicci - Memories.",
+    "artist": "chromonicci",
+    "title": "Memories.",
+    "album": "Chillhop Essentials Fall 2019",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/2639d1d89c7324a3d53259d5-1586028052.jpg",
+    "custom_fields": []
   }
 ]
