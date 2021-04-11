@@ -13924,5 +13924,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/cb8d218f55d1fa5b06ebc13c-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "60d8e993b5fcdbd824b0a8f288ed7c2e",
+    "text": "Trebles and Blues - Day 14 - Inspired on a Monday Night",
+    "artist": "Trebles and Blues",
+    "title": "Day 14 - Inspired on a Monday Night",
+    "album": "60 Days with Trebles",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/8bd29ed2f349c8eae9aa2367-1586028052.jpg",
+    "custom_fields": []
   }
 ]
