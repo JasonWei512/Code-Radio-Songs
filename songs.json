@@ -13220,5 +13220,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/3bf07f5985cfe65bf4ae0380-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "37cee0a56aff933e9071fb23b6a0829a",
+    "text": "emancipator - Afterglow",
+    "artist": "emancipator",
+    "title": "Afterglow",
+    "album": "Dusk to Dawn",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/57f2e2dbc7c414318d55238c-1586028052.jpg",
+    "custom_fields": []
   }
 ]
