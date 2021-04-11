@@ -13088,5 +13088,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "400140de94fba534674fd18b5522f376",
+    "text": "Eric Lau - Feeling Connected",
+    "artist": "Eric Lau",
+    "title": "Feeling Connected",
+    "album": "Examples Volume Two",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/de63a2f7984365b2fbad2875-1586028052.jpg",
+    "custom_fields": []
   }
 ]
