@@ -14034,5 +14034,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/d4855f3606b3ce72935edac2-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "864cfa3e932a5a56192d171a69745525",
+    "text": "Trebles and Blues - Win Against Them All",
+    "artist": "Trebles and Blues",
+    "title": "Win Against Them All",
+    "album": "The Blue Note",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/a9e643aa46b7b741f8ace1a7-1586028052.jpg",
+    "custom_fields": []
   }
 ]
