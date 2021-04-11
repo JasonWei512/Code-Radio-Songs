@@ -14210,5 +14210,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/0964af1c2b2ba5eb50efff86-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "c36a40b39c2fdc5622190b976d8ab1d1",
+    "text": "jinsang - everyday",
+    "artist": "jinsang",
+    "title": "everyday",
+    "album": "in flight",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/992797c795d5ee2a19cccbc1-1586028052.jpg",
+    "custom_fields": []
   }
 ]
