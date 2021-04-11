@@ -14232,5 +14232,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/9898b7c26f9cb15992148bac-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "9bca27a75ff3fa080f450ef0291b97c4",
+    "text": "Trebles and Blues - winter.",
+    "artist": "Trebles and Blues",
+    "title": "winter.",
+    "album": "Trebles and Blues Beats",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/9c023ab31d2e4117641c517d-1586028052.jpg",
+    "custom_fields": []
   }
 ]
