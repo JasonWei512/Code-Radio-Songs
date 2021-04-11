@@ -13253,5 +13253,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/ea2e0dbfbf609bfa3b24cba5-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "b19edac07791c6c2f0e2c0847f984ec6",
+    "text": "Emancipator - Good Knight",
+    "artist": "Emancipator",
+    "title": "Good Knight",
+    "album": "Soon It Will Be Cold Enough",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/e81f1f069d46b825c87cc9a6-1586028052.jpg",
+    "custom_fields": []
   }
 ]
