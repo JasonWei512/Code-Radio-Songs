@@ -12901,5 +12901,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/4af4a394434adffe25d96ac2-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "3f86f3ebb68a043716dc6fa192fe2272",
+    "text": "DJ Okawari - Afterschool",
+    "artist": "DJ Okawari",
+    "title": "Afterschool",
+    "album": "Mirror",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
+    "custom_fields": []
   }
 ]
