@@ -13836,5 +13836,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/37462cf4ad0b6a9bb0efbe83-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "2fcd0bad30f7fbcc716d72ccafd91862",
+    "text": "Vanilla - Lazy Days",
+    "artist": "Vanilla",
+    "title": "Lazy Days",
+    "album": "Moonlight",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/d3547cacda74807af9c88270-1586028052.jpg",
+    "custom_fields": []
   }
 ]
