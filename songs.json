@@ -13748,5 +13748,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/c82badcbfbba913fb4062e5e-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "b780135b6bca38b2706f55ccf9a38e3b",
+    "text": "Eric Lau - Nadir",
+    "artist": "Eric Lau",
+    "title": "Nadir",
+    "album": "Makin\u0027 Sound",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/0413688b9e7cfcb1b45de140-1586028052.jpg",
+    "custom_fields": []
   }
 ]
