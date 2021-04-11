@@ -12692,5 +12692,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/dfe5dc02b8a8ac60fb1b4791-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "52ca8b6c9ea7098b8a2b636759ba38bd",
+    "text": "DJ Okawari - Times Fusion",
+    "artist": "DJ Okawari",
+    "title": "Times Fusion",
+    "album": "Diorama",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/ed4bf638670f00cedaae8bf2-1586028052.jpg",
+    "custom_fields": []
   }
 ]
