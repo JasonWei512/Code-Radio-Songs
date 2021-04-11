@@ -13594,5 +13594,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "6fc7f345307e0c6841874074e2c64621",
+    "text": "The Roots - Hall \u0026 Oates",
+    "artist": "The Roots",
+    "title": "Hall \u0026 Oates",
+    "album": "Dilla Joints",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/9b234d097296179fbc287302-1586028052.jpg",
+    "custom_fields": []
   }
 ]
