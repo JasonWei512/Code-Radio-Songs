@@ -13770,5 +13770,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/af2b821c60b2d4ad4233319c-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "7a3d3f3f430aef46e1647b09b10a2579",
+    "text": "Yasper - Good Friends",
+    "artist": "Yasper",
+    "title": "Good Friends",
+    "album": "Chillhop Essentials Summer 2019",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/4d0239d3bba1c87cc5a2ae39-1586028052.jpg",
+    "custom_fields": []
   }
 ]
