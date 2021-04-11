@@ -13561,5 +13561,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "7c6dd3bae81678098b455a5e29d46bd0",
+    "text": "emancipator - Galapagos",
+    "artist": "emancipator",
+    "title": "Galapagos",
+    "album": "Dusk to Dawn",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/3de00fd603e2952daf9fa60d-1586028052.jpg",
+    "custom_fields": []
   }
 ]
