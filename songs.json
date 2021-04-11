@@ -13451,5 +13451,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/4d0c3654a3b36604d62e2d26-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "81970bef363cff8deb607e248923af33",
+    "text": "Blazo - Illusive Azure",
+    "artist": "Blazo",
+    "title": "Illusive Azure",
+    "album": "Colors Of Jazz",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/7af1fc6236dc7c1ad822bbcc-1586028052.jpg",
+    "custom_fields": []
   }
 ]
