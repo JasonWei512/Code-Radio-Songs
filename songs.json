@@ -12868,5 +12868,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/bfd5a77fa5f5246887a122c9-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "6483577e5782d3dce7c0b1cc7fb92618",
+    "text": "Days of Contrast - D.O.C.",
+    "artist": "Days of Contrast",
+    "title": "D.O.C.",
+    "album": "When We Accepted Change",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/a3dc221d2af094247d30a3ec-1586028052.jpg",
+    "custom_fields": []
   }
 ]
