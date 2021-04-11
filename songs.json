@@ -14133,5 +14133,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/029c8b14bdf9db946dd67646-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "ea58c6615f7c7d37a51b731495e33d4b",
+    "text": "Trebles and Blues - There is a Way",
+    "artist": "Trebles and Blues",
+    "title": "There is a Way",
+    "album": "Trebles and Blues Beats",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
+    "custom_fields": []
   }
 ]
