@@ -12802,5 +12802,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/3385c58f76cc0439707e0bf7-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "4c1c259dbcf9188490a61beb1b9b9da5",
+    "text": "Moderator - Free As The Wind",
+    "artist": "Moderator",
+    "title": "Free As The Wind",
+    "album": "As The Lights Fade",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
+    "custom_fields": []
   }
 ]
