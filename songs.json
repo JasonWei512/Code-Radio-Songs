@@ -13913,5 +13913,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/214c219433cf5f1c29ea59f6-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "4cf2073d5c59844b173851d1d5a8e589",
+    "text": "Trebles and Blues - One Jazzy Summer",
+    "artist": "Trebles and Blues",
+    "title": "One Jazzy Summer",
+    "album": "Eighth Notes",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/cb8d218f55d1fa5b06ebc13c-1586028052.jpg",
+    "custom_fields": []
   }
 ]
