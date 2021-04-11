@@ -13297,5 +13297,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/04213b0c401708a4c14d46f4-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "04a0f8e8cc8c23d76bb7d1a57d963044",
+    "text": "Dotlights - Life inside a nightmare rectangle",
+    "artist": "Dotlights",
+    "title": "Life inside a nightmare rectangle",
+    "album": "Chillhop daydreams",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/110eaa5ef687d269889695e8-1586028052.jpg",
+    "custom_fields": []
   }
 ]
