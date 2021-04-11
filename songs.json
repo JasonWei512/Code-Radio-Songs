@@ -13715,5 +13715,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/897e93e08f9b2728c2aed96e-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "eb13857e79f8ace7b682f187890479f8",
+    "text": "Aso - Love Journey",
+    "artist": "Aso",
+    "title": "Love Journey",
+    "album": "Café Del Mar: ChillWave",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/d8e76fdffc0db3ed7609e9b0-1586028052.jpg",
+    "custom_fields": []
   }
 ]
