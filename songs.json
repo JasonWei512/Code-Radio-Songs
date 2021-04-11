@@ -13231,5 +13231,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/57f2e2dbc7c414318d55238c-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "b3721b351fef5f76cd26da5c804c2928",
+    "text": "Tom Misch - Euphoric",
+    "artist": "Tom Misch",
+    "title": "Euphoric",
+    "album": "Beat Tape 1",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/b293aa33a78c804523f2cf96-1586028052.jpg",
+    "custom_fields": []
   }
 ]
