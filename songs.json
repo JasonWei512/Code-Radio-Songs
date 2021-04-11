@@ -13902,5 +13902,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/a802eacd4bfcfb8532adb1b5-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "32a47195052fa9073acc1269eefda0e1",
+    "text": "Trebles and Blues - Day 38 - I\u0027ve Been Through the Hourglass",
+    "artist": "Trebles and Blues",
+    "title": "Day 38 - I\u0027ve Been Through the Hourglass",
+    "album": "60 Days with Trebles",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/214c219433cf5f1c29ea59f6-1586028052.jpg",
+    "custom_fields": []
   }
 ]
