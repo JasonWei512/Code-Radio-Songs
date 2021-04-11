@@ -14155,5 +14155,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/3d7f2489f60eca175ad5aede-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "f4ac57dcc1a126ce2fd55a12b90c482c",
+    "text": "Aso - Summer Nights",
+    "artist": "Aso",
+    "title": "Summer Nights",
+    "album": "Love Journey",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/a060ebcb06756d64b0544725-1586028052.jpg",
+    "custom_fields": []
   }
 ]
