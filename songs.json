@@ -13286,5 +13286,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "9ad62423585318c71783696fea768955",
+    "text": "Vanilla - Ritual",
+    "artist": "Vanilla",
+    "title": "Ritual",
+    "album": "Moonlight",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/04213b0c401708a4c14d46f4-1586028052.jpg",
+    "custom_fields": []
   }
 ]
