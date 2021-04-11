@@ -12758,5 +12758,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/748eb6646ed2f9388156c2d7-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "d35e5b37a17ffabcbcf8ec3d659b617b",
+    "text": "Blazo - Pure White (Outro)",
+    "artist": "Blazo",
+    "title": "Pure White (Outro)",
+    "album": "Colors Of Jazz",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/d810e0a39f7441e0f5c27f6d-1586028052.jpg",
+    "custom_fields": []
   }
 ]
