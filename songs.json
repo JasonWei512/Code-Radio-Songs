@@ -12582,5 +12582,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/eaa0e3b43a5a1381ee9555e8-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "586b50f31dcba1c7a04778a8292ce683",
+    "text": "the tempo - trebles and blues",
+    "artist": "the tempo",
+    "title": "trebles and blues",
+    "album": "The Cool vol. 1",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/cccb5d5ff863d9f49b55f914-1586028052.jpg",
+    "custom_fields": []
   }
 ]
