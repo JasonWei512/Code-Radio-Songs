@@ -13847,5 +13847,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/d3547cacda74807af9c88270-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "cb566a04edf4a3103c7fc5acf255fd88",
+    "text": "Blazo - Smoky Grey",
+    "artist": "Blazo",
+    "title": "Smoky Grey",
+    "album": "Colors Of Jazz",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/146c5e82455b7e0e998ca153-1586028052.jpg",
+    "custom_fields": []
   }
 ]
