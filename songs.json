@@ -13440,5 +13440,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/56bffa9fe1ab1151bb57b261-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "56c7365587a1fd9310a15e75f877df23",
+    "text": "Bop Alloy - Jazzmatic (Instrumental)",
+    "artist": "Bop Alloy",
+    "title": "Jazzmatic (Instrumental)",
+    "album": "Substantial \u0026 Marcus D are Bop Alloy (Deluxe Edition)",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/4d0c3654a3b36604d62e2d26-1586028052.jpg",
+    "custom_fields": []
   }
 ]
