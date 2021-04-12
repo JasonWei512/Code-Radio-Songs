@@ -14331,5 +14331,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/e001ffae1111115dad408937-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "a92e456caaf08cf633a32d984f6465d8",
+    "text": "Trebles and Blues - The Start of It All",
+    "artist": "Trebles and Blues",
+    "title": "The Start of It All",
+    "album": "Trebles and Blues Beats",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
+    "custom_fields": []
   }
 ]
