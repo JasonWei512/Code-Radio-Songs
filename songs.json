@@ -14518,5 +14518,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/b62364364f65a11d806e018d-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "3de6df2ec04971781813c3b280378a44",
+    "text": "Emancipator - With Rainy Eyes",
+    "artist": "Emancipator",
+    "title": "With Rainy Eyes",
+    "album": "Soon It Will Be Cold Enough",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/f900c4417531cf04a574ba15-1586028052.jpg",
+    "custom_fields": []
   }
 ]
