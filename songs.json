@@ -14672,5 +14672,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "5dd72944e2380620b648beb9a1df226a",
+    "text": "SwuM \u0026 Jinsang - Voyage",
+    "artist": "SwuM \u0026 Jinsang",
+    "title": "Voyage",
+    "album": "Blossoms",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/aa2d4ce04674b0c498fd601f-1586028052.jpg",
+    "custom_fields": []
   }
 ]
