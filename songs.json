@@ -14342,5 +14342,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "e2b7e523cc9f4140b2c23e6585f550bb",
+    "text": "Emancipator - Black Lake",
+    "artist": "Emancipator",
+    "title": "Black Lake",
+    "album": "Safe in the Steep Cliffs",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/35a1b7b7734071eb178d27c2-1586028052.jpg",
+    "custom_fields": []
   }
 ]
