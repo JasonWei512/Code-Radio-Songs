@@ -14529,5 +14529,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/f900c4417531cf04a574ba15-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "323e6ab279cdd70eff4e8d3e3c0d025c",
+    "text": "Various Artists - ZeMauno - SMOKYE",
+    "artist": "Various Artists",
+    "title": "ZeMauno - SMOKYE",
+    "album": "BLESS Vol. 1",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/fee1ad08bc6d77f898818cc0-1586028052.jpg",
+    "custom_fields": []
   }
 ]
