@@ -14650,5 +14650,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "cbeea96390b75a55f73e0848dddf284d",
+    "text": "Trebles and Blues - Day 46 - Midnight Moon",
+    "artist": "Trebles and Blues",
+    "title": "Day 46 - Midnight Moon",
+    "album": "60 Days with Trebles",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/82fb0ec84d7cb79ceb4f3277-1586028052.jpg",
+    "custom_fields": []
   }
 ]
