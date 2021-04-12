@@ -14562,5 +14562,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/45b44251792d3196b79714c3-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "901234c17ca3b02dfbde97b1d086f658",
+    "text": "jinsang - struggles",
+    "artist": "jinsang",
+    "title": "struggles",
+    "album": "life.",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/bacc328c4056d1c1efa0636f-1586028052.jpg",
+    "custom_fields": []
   }
 ]
