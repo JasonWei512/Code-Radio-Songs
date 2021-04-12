@@ -14595,5 +14595,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/58c6d5654bdebfe194117049-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "77ef556863810e5bf1c543ecfad88506",
+    "text": "Aso - Sun Will Shine",
+    "artist": "Aso",
+    "title": "Sun Will Shine",
+    "album": "Love Journey",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/0dfad3525ba8c6b563e597c0-1586028052.jpg",
+    "custom_fields": []
   }
 ]
