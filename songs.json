@@ -14738,5 +14738,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/358955c9c979015347944634-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "c1e35750c3ba7c0a33da7d714cfe6785",
+    "text": "L\u0027Indécis - Wine \u0026 Roses",
+    "artist": "L\u0027Indécis",
+    "title": "Wine \u0026 Roses",
+    "album": "Plethoria",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/8f9da09300b7d2dd1a9a4f80-1586028052.jpg",
+    "custom_fields": []
   }
 ]
