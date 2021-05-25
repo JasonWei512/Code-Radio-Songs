@@ -1,6 +1,10 @@
 ## Code Radio Songs
 
-[Song List in Json](songs.json)
+Song List:
+
+[Online Table](songs.md)
+
+[Json](songs.json)
 
 ## Description
 
@@ -8,7 +12,7 @@ An incomplete list of the music played on https://coderadio.freecodecamp.org/.
 
 ## Notice
 
-There might be duplicated IDs in `songs.json`, if Code Radio updated a song's info.
+There might be duplicated IDs if Code Radio updated a song's info.
 
 For example, if Code Radio updated a song's album info, then you will see this in `songs.json`:
 
