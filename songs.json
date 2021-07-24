@@ -14881,5 +14881,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/373667b73a508b9632667c5a-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "626933d3e0af378a7983b7964d5c06be",
+    "text": "Apollo Brown - Wisdom",
+    "artist": "Apollo Brown",
+    "title": "Wisdom",
+    "album": "Clouds",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/4ba4739381ab850294f4cefa-1586028052.jpg",
+    "custom_fields": []
   }
 ]
