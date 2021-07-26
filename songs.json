@@ -14914,5 +14914,16 @@
     "lyrics": "",
     "art": "https://coderadio-admin.freecodecamp.org/api/station/2/art/69b9b7a0327afd7803acb8f0-1586028052.jpg",
     "custom_fields": []
+  },
+  {
+    "id": "b6099dad7c7e6d53e3b61ac6ebfeedb8",
+    "text": "Days of Contrast - Let\u0027s Begin",
+    "artist": "Days of Contrast",
+    "title": "Let\u0027s Begin",
+    "album": "",
+    "genre": "",
+    "lyrics": "",
+    "art": "https://coderadio-admin.freecodecamp.org/static/img/generic_song.jpg",
+    "custom_fields": []
   }
 ]
